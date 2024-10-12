@@ -1,0 +1,459 @@
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.4285714299682133  Rank = 2      Special Vector2 = 0.5  Rank = 1
+   i --> 2   Special Vector V1 = 0.5714285700317866  Rank = 1      Special Vector2 = 0.5  Rank = 1
+
+    Max Normalzied Difference ==> 33.33333257286163
+
+   Average_Ratio1 = 15.06221682051863
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.4782385731430677  Rank = 1      Special Vector2 = 0.5  Rank = 1
+   i --> 2   Special Vector V1 = 0.29814934536126464  Rank = 2      Special Vector2 = 0.25000000000000006  Rank = 2
+   i --> 3   Special Vector V1 = 0.22361208149566777  Rank = 3      Special Vector2 = 0.25000000000000006  Rank = 2
+
+    Max Normalzied Difference ==> 33.33329011878141
+
+   Average_Ratio1 = 13.788829033319823
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.21041579730876442  Rank = 4      Special Vector2 = 0.25  Rank = 1
+   i --> 2   Special Vector V1 = 0.28055436755024515  Rank = 1      Special Vector2 = 0.25  Rank = 1
+   i --> 3   Special Vector V1 = 0.2679517011848108  Rank = 2      Special Vector2 = 0.25  Rank = 1
+   i --> 4   Special Vector V1 = 0.24107813395617947  Rank = 3      Special Vector2 = 0.25  Rank = 1
+
+    Max Normalzied Difference ==> 33.333319616948394
+
+   Average_Ratio1 = 12.252626427181882
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.27656899284835323  Rank = 1      Special Vector2 = 0.2747995746759952  Rank = 1
+   i --> 2   Special Vector V1 = 0.17154241388447153  Rank = 4      Special Vector2 = 0.1813001063310012  Rank = 2
+   i --> 3   Special Vector V1 = 0.20401505942653195  Rank = 2      Special Vector2 = 0.1813001063310012  Rank = 2
+   i --> 4   Special Vector V1 = 0.19486223372742376  Rank = 3      Special Vector2 = 0.1813001063310012  Rank = 2
+   i --> 5   Special Vector V1 = 0.15301130011321953  Rank = 5      Special Vector2 = 0.1813001063310012  Rank = 2
+
+    Max Normalzied Difference ==> 33.33332850290964
+
+   Average_Ratio1 = 10.704625031871405
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.15951171662642932  Rank = 4      Special Vector2 = 0.17223101677427988  Rank = 2
+   i --> 2   Special Vector V1 = 0.15956894478703115  Rank = 3      Special Vector2 = 0.17223101677427988  Rank = 2
+   i --> 3   Special Vector V1 = 0.1057298542007978  Rank = 6      Special Vector2 = 0.09666138993543208  Rank = 3
+   i --> 4   Special Vector V1 = 0.15920254908567572  Rank = 5      Special Vector2 = 0.17223101677427988  Rank = 2
+   i --> 5   Special Vector V1 = 0.23770680155865348  Rank = 1      Special Vector2 = 0.19332277987086416  Rank = 1
+   i --> 6   Special Vector V1 = 0.17828013374141255  Rank = 2      Special Vector2 = 0.19332277987086416  Rank = 1
+
+    Max Normalzied Difference ==> 33.33330897285318
+
+   Average_Ratio1 = 9.477732258958302
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.15858612407495357  Rank = 3      Special Vector2 = 0.17013791416635587  Rank = 1
+   i --> 2   Special Vector V1 = 0.0902535792664385  Rank = 6      Special Vector2 = 0.08506895708317794  Rank = 3
+   i --> 3   Special Vector V1 = 0.14850330835813805  Rank = 4      Special Vector2 = 0.17013791416635587  Rank = 1
+   i --> 4   Special Vector V1 = 0.08200115684869264  Rank = 7      Special Vector2 = 0.08028145120242877  Rank = 4
+   i --> 5   Special Vector V1 = 0.19800441103528515  Rank = 1      Special Vector2 = 0.17013791416635587  Rank = 1
+   i --> 6   Special Vector V1 = 0.14119729099800032  Rank = 5      Special Vector2 = 0.15409793504896988  Rank = 2
+   i --> 7   Special Vector V1 = 0.18145412941849173  Rank = 2      Special Vector2 = 0.17013791416635587  Rank = 1
+
+    Max Normalzied Difference ==> 33.33333326000237
+
+   Average_Ratio1 = 8.53800752691607
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.12201215750578727  Rank = 5      Special Vector2 = 0.14403078685808338  Rank = 1
+   i --> 2   Special Vector V1 = 0.13812128535171941  Rank = 4      Special Vector2 = 0.14403078685808338  Rank = 1
+   i --> 3   Special Vector V1 = 0.10978123285955055  Rank = 7      Special Vector2 = 0.10557417042728036  Rank = 3
+   i --> 4   Special Vector V1 = 0.16268286064861393  Rank = 1      Special Vector2 = 0.14403078685808338  Rank = 1
+   i --> 5   Special Vector V1 = 0.04730741495997914  Rank = 8      Special Vector2 = 0.04872234064967113  Rank = 4
+   i --> 6   Special Vector V1 = 0.15324695434469213  Rank = 2      Special Vector2 = 0.14403078685808338  Rank = 1
+   i --> 7   Special Vector V1 = 0.11632433102873224  Rank = 6      Special Vector2 = 0.12554955463263168  Rank = 2
+   i --> 8   Special Vector V1 = 0.15052376330092532  Rank = 3      Special Vector2 = 0.14403078685808338  Rank = 1
+
+    Max Normalzied Difference ==> 33.333320198765904
+
+   Average_Ratio1 = 7.816776969779463
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.09602290642317649  Rank = 5      Special Vector2 = 0.0963933169812972  Rank = 2
+   i --> 2   Special Vector V1 = 0.1818646801762824  Rank = 1      Special Vector2 = 0.18672171981078414  Rank = 1
+   i --> 3   Special Vector V1 = 0.08787527173227834  Rank = 8      Special Vector2 = 0.0963933169812972  Rank = 2
+   i --> 4   Special Vector V1 = 0.0903411253305891  Rank = 7      Special Vector2 = 0.0963933169812972  Rank = 2
+   i --> 5   Special Vector V1 = 0.11716699869865348  Rank = 3      Special Vector2 = 0.0963933169812972  Rank = 2
+   i --> 6   Special Vector V1 = 0.17991517899300186  Rank = 2      Special Vector2 = 0.18672171981078414  Rank = 1
+   i --> 7   Special Vector V1 = 0.09351303280279072  Rank = 6      Special Vector2 = 0.0963933169812972  Rank = 2
+   i --> 8   Special Vector V1 = 0.052242330162627595  Rank = 9      Special Vector2 = 0.0481966584906486  Rank = 3
+   i --> 9   Special Vector V1 = 0.10105847568059992  Rank = 4      Special Vector2 = 0.0963933169812972  Rank = 2
+
+    Max Normalzied Difference ==> 33.33329887800017
+
+   Average_Ratio1 = 7.25091025128788
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.10866881817308045  Rank = 5      Special Vector2 = 0.12250495370452198  Rank = 1
+   i --> 2   Special Vector V1 = 0.13890612724141368  Rank = 2      Special Vector2 = 0.12250495370452198  Rank = 1
+   i --> 3   Special Vector V1 = 0.10898565385374258  Rank = 4      Special Vector2 = 0.12250495370452198  Rank = 1
+   i --> 4   Special Vector V1 = 0.0626636315101063  Rank = 9      Special Vector2 = 0.06125247685226099  Rank = 4
+   i --> 5   Special Vector V1 = 0.14489169400192606  Rank = 1      Special Vector2 = 0.12250495370452198  Rank = 1
+   i --> 6   Special Vector V1 = 0.05930657600918237  Rank = 10      Special Vector2 = 0.05881857910682329  Rank = 5
+   i --> 7   Special Vector V1 = 0.06550177580827324  Rank = 8      Special Vector2 = 0.06125247685226099  Rank = 4
+   i --> 8   Special Vector V1 = 0.09796757516012344  Rank = 7      Special Vector2 = 0.09950494221200767  Rank = 3
+   i --> 9   Special Vector V1 = 0.1027968832475956  Rank = 6      Special Vector2 = 0.10664675645403722  Rank = 2
+   i --> 10   Special Vector V1 = 0.11031126499455628  Rank = 3      Special Vector2 = 0.12250495370452198  Rank = 1
+
+    Max Normalzied Difference ==> 33.333274841686624
+
+   Average_Ratio1 = 6.790154298558799
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.10785582111069965  Rank = 5      Special Vector2 = 0.11226612196391517  Rank = 3
+   i --> 2   Special Vector V1 = 0.0792908449623437  Rank = 7      Special Vector2 = 0.06961068092226327  Rank = 4
+   i --> 3   Special Vector V1 = 0.05922175087610815  Rank = 10      Special Vector2 = 0.06136816755538566  Rank = 5
+   i --> 4   Special Vector V1 = 0.07318874698976065  Rank = 8      Special Vector2 = 0.06961068092226327  Rank = 4
+   i --> 5   Special Vector V1 = 0.0799326436912542  Rank = 6      Special Vector2 = 0.06961068092226327  Rank = 4
+   i --> 6   Special Vector V1 = 0.11784175048962305  Rank = 3      Special Vector2 = 0.11956803284364793  Rank = 2
+   i --> 7   Special Vector V1 = 0.10863810347667516  Rank = 4      Special Vector2 = 0.11226612196391517  Rank = 3
+   i --> 8   Special Vector V1 = 0.03656500111533842  Rank = 11      Special Vector2 = 0.037646108295029956  Rank = 6
+   i --> 9   Special Vector V1 = 0.1392161426134303  Rank = 1      Special Vector2 = 0.13922136184452655  Rank = 1
+   i --> 10   Special Vector V1 = 0.0599495065090646  Rank = 9      Special Vector2 = 0.06961068092226327  Rank = 4
+   i --> 11   Special Vector V1 = 0.13829968816570207  Rank = 2      Special Vector2 = 0.13922136184452655  Rank = 1
+
+    Max Normalzied Difference ==> 33.33328053195579
+
+   Average_Ratio1 = 6.414399963485752
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.029943847097644877  Rank = 12      Special Vector2 = 0.030191380398582168  Rank = 3
+   i --> 2   Special Vector V1 = 0.1029088665355941  Rank = 1      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 3   Special Vector V1 = 0.09752828695617248  Rank = 2      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 4   Special Vector V1 = 0.08934440005233564  Rank = 7      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 5   Special Vector V1 = 0.07718168343871218  Rank = 10      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 6   Special Vector V1 = 0.08114354495314571  Rank = 9      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 7   Special Vector V1 = 0.09088103873495426  Rank = 6      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 8   Special Vector V1 = 0.09171604584880182  Rank = 4      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 9   Special Vector V1 = 0.07100024135785474  Rank = 11      Special Vector2 = 0.07291380192585359  Rank = 2
+   i --> 10   Special Vector V1 = 0.09169705247348177  Rank = 5      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 11   Special Vector V1 = 0.08198719294107766  Rank = 8      Special Vector2 = 0.08968948176755641  Rank = 1
+   i --> 12   Special Vector V1 = 0.09466779961022483  Rank = 3      Special Vector2 = 0.08968948176755641  Rank = 1
+
+    Max Normalzied Difference ==> 33.33327539727889
+
+   Average_Ratio1 = 6.097388144935821
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.06814919755667548  Rank = 8      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 2   Special Vector V1 = 0.120503032802559  Rank = 2      Special Vector2 = 0.1247026689994466  Rank = 2
+   i --> 3   Special Vector V1 = 0.11330063413351676  Rank = 3      Special Vector2 = 0.11822779645645579  Rank = 3
+   i --> 4   Special Vector V1 = 0.1340031285733606  Rank = 1      Special Vector2 = 0.1344753162504882  Rank = 1
+   i --> 5   Special Vector V1 = 0.07779564464945884  Rank = 5      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 6   Special Vector V1 = 0.03918625420204867  Rank = 12      Special Vector2 = 0.03673036729086662  Rank = 5
+   i --> 7   Special Vector V1 = 0.061635022207500965  Rank = 11      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 8   Special Vector V1 = 0.06891803947709298  Rank = 7      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 9   Special Vector V1 = 0.07066220679692128  Rank = 6      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 10   Special Vector V1 = 0.08217995456130262  Rank = 4      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 11   Special Vector V1 = 0.03635018679416852  Rank = 13      Special Vector2 = 0.035926474298099254  Rank = 6
+   i --> 12   Special Vector V1 = 0.06317052428461083  Rank = 10      Special Vector2 = 0.06874217208808044  Rank = 4
+   i --> 13   Special Vector V1 = 0.06414617396078338  Rank = 9      Special Vector2 = 0.06874217208808044  Rank = 4
+
+    Max Normalzied Difference ==> 33.33321157025776
+
+   Average_Ratio1 = 5.82864559996835
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.11425693600802256  Rank = 1      Special Vector2 = 0.1091669019706115  Rank = 1
+   i --> 2   Special Vector V1 = 0.1032738204338282  Rank = 3      Special Vector2 = 0.10694655272247629  Rank = 2
+   i --> 3   Special Vector V1 = 0.10907934411199958  Rank = 2      Special Vector2 = 0.1091669019706115  Rank = 1
+   i --> 4   Special Vector V1 = 0.02761150469160101  Rank = 14      Special Vector2 = 0.027858337137772214  Rank = 7
+   i --> 5   Special Vector V1 = 0.05361613713839326  Rank = 10      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 6   Special Vector V1 = 0.06084885518860123  Rank = 8      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 7   Special Vector V1 = 0.04957027198410653  Rank = 11      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 8   Special Vector V1 = 0.06457639624225603  Rank = 7      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 9   Special Vector V1 = 0.09643657902678153  Rank = 4      Special Vector2 = 0.09971039856174155  Rank = 3
+   i --> 10   Special Vector V1 = 0.030967095910361675  Rank = 13      Special Vector2 = 0.02962973561265575  Rank = 6
+   i --> 11   Special Vector V1 = 0.06047529210393404  Rank = 9      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 12   Special Vector V1 = 0.04843329125838209  Rank = 12      Special Vector2 = 0.05458345098530575  Rank = 5
+   i --> 13   Special Vector V1 = 0.08614417517194604  Rank = 6      Special Vector2 = 0.09031006755055512  Rank = 4
+   i --> 14   Special Vector V1 = 0.09471030072978623  Rank = 5      Special Vector2 = 0.09971039856174155  Rank = 3
+
+    Max Normalzied Difference ==> 33.330596712401075
+
+   Average_Ratio1 = 5.591621801844339
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.05094590015489878  Rank = 8      Special Vector2 = 0.05142156617672612  Rank = 4
+   i --> 2   Special Vector V1 = 0.04690341158212639  Rank = 12      Special Vector2 = 0.047790020456611605  Rank = 5
+   i --> 3   Special Vector V1 = 0.08523497828915658  Rank = 6      Special Vector2 = 0.09450355177830705  Rank = 3
+   i --> 4   Special Vector V1 = 0.09345502277069478  Rank = 5      Special Vector2 = 0.09450355177830705  Rank = 3
+   i --> 5   Special Vector V1 = 0.0638121760888526  Rank = 7      Special Vector2 = 0.05142156617672612  Rank = 4
+   i --> 6   Special Vector V1 = 0.0495271621813713  Rank = 9      Special Vector2 = 0.05142156617672612  Rank = 4
+   i --> 7   Special Vector V1 = 0.026758932514877338  Rank = 15      Special Vector2 = 0.02620864410846439  Rank = 7
+   i --> 8   Special Vector V1 = 0.11257430970963306  Rank = 1      Special Vector2 = 0.10284313235345224  Rank = 1
+   i --> 9   Special Vector V1 = 0.0478591971362743  Rank = 11      Special Vector2 = 0.05142156617672612  Rank = 4
+   i --> 10   Special Vector V1 = 0.09392889043678264  Rank = 4      Special Vector2 = 0.09633350905848193  Rank = 2
+   i --> 11   Special Vector V1 = 0.04664288028425384  Rank = 13      Special Vector2 = 0.047790020456611605  Rank = 5
+   i --> 12   Special Vector V1 = 0.028281971516875486  Rank = 14      Special Vector2 = 0.027233474419228767  Rank = 6
+   i --> 13   Special Vector V1 = 0.10545381571625492  Rank = 2      Special Vector2 = 0.10284313235345224  Rank = 1
+   i --> 14   Special Vector V1 = 0.04947271703322392  Rank = 10      Special Vector2 = 0.05142156617672612  Rank = 4
+   i --> 15   Special Vector V1 = 0.0991486345847241  Rank = 3      Special Vector2 = 0.10284313235345224  Rank = 1
+
+    Max Normalzied Difference ==> 33.33315205257996
+
+   Average_Ratio1 = 5.383657686493597
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.053506740619836166  Rank = 9      Special Vector2 = 0.052248944809794216  Rank = 6
+   i --> 2   Special Vector V1 = 0.02720920432372674  Rank = 15      Special Vector2 = 0.027572334687910156  Rank = 8
+   i --> 3   Special Vector V1 = 0.09566475897240638  Rank = 2      Special Vector2 = 0.1008068809919682  Rank = 2
+   i --> 4   Special Vector V1 = 0.059331825629242885  Rank = 8      Special Vector2 = 0.052248944809794216  Rank = 6
+   i --> 5   Special Vector V1 = 0.09417595046437743  Rank = 3      Special Vector2 = 0.09481283484938792  Rank = 3
+   i --> 6   Special Vector V1 = 0.028339555222651032  Rank = 14      Special Vector2 = 0.02858188606193608  Rank = 7
+   i --> 7   Special Vector V1 = 0.05219978058114264  Rank = 10      Special Vector2 = 0.052248944809794216  Rank = 6
+   i --> 8   Special Vector V1 = 0.04730843409449327  Rank = 12      Special Vector2 = 0.052248944809794216  Rank = 6
+   i --> 9   Special Vector V1 = 0.10254837339042726  Rank = 1      Special Vector2 = 0.10263579454943426  Rank = 1
+   i --> 10   Special Vector V1 = 0.026260320858951008  Rank = 16      Special Vector2 = 0.02640335815366185  Rank = 9
+   i --> 11   Special Vector V1 = 0.05042646532619504  Rank = 11      Special Vector2 = 0.052248944809794216  Rank = 6
+   i --> 12   Special Vector V1 = 0.09202788016202681  Rank = 4      Special Vector2 = 0.09481283484938792  Rank = 3
+   i --> 13   Special Vector V1 = 0.02956945364870585  Rank = 13      Special Vector2 = 0.02858188606193608  Rank = 7
+   i --> 14   Special Vector V1 = 0.08857615098069707  Rank = 6      Special Vector2 = 0.0891751987931612  Rank = 5
+   i --> 15   Special Vector V1 = 0.08977753146854582  Rank = 5      Special Vector2 = 0.093123322142451  Rank = 4
+   i --> 16   Special Vector V1 = 0.06307757425657452  Rank = 7      Special Vector2 = 0.052248944809794216  Rank = 6
+
+    Max Normalzied Difference ==> 33.33261914901721
+
+   Average_Ratio1 = 5.200604162915193
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.07542548857626998  Rank = 5      Special Vector2 = 0.07883801200343589  Rank = 3
+   i --> 2   Special Vector V1 = 0.03536381631263231  Rank = 16      Special Vector2 = 0.034639670837743  Rank = 8
+   i --> 3   Special Vector V1 = 0.08789984131743776  Rank = 1      Special Vector2 = 0.08699620250711351  Rank = 1
+   i --> 4   Special Vector V1 = 0.08101497261348152  Rank = 2      Special Vector2 = 0.08553639804713184  Rank = 2
+   i --> 5   Special Vector V1 = 0.038708149730500976  Rank = 14      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 6   Special Vector V1 = 0.04997536294744934  Rank = 11      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 7   Special Vector V1 = 0.07541364350960947  Rank = 6      Special Vector2 = 0.07883801200343589  Rank = 3
+   i --> 8   Special Vector V1 = 0.07906450900922399  Rank = 3      Special Vector2 = 0.08553639804713184  Rank = 2
+   i --> 9   Special Vector V1 = 0.05160915290865547  Rank = 9      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 10   Special Vector V1 = 0.07028983715404892  Rank = 8      Special Vector2 = 0.07266417897593845  Rank = 5
+   i --> 11   Special Vector V1 = 0.07579248854979848  Rank = 4      Special Vector2 = 0.07883801200343589  Rank = 3
+   i --> 12   Special Vector V1 = 0.05154378767151111  Rank = 10      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 13   Special Vector V1 = 0.04847049487911631  Rank = 12      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 14   Special Vector V1 = 0.043507387819998695  Rank = 13      Special Vector2 = 0.043498101253556756  Rank = 6
+   i --> 15   Special Vector V1 = 0.024906828949774848  Rank = 17      Special Vector2 = 0.024484185790203984  Rank = 9
+   i --> 16   Special Vector V1 = 0.07417086430414453  Rank = 7      Special Vector2 = 0.07568817222211703  Rank = 4
+   i --> 17   Special Vector V1 = 0.03684337374634651  Rank = 15      Special Vector2 = 0.03695215004097224  Rank = 7
+
+    Max Normalzied Difference ==> 33.328906878720815
+
+   Average_Ratio1 = 5.030450974109046
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.02526161509341062  Rank = 17      Special Vector2 = 0.023997623460704463  Rank = 7
+   i --> 2   Special Vector V1 = 0.04099767906389603  Rank = 14      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 3   Special Vector V1 = 0.0923076668628161  Rank = 3      Special Vector2 = 0.09297070926242251  Rank = 2
+   i --> 4   Special Vector V1 = 0.026826542968381717  Rank = 16      Special Vector2 = 0.024384242886050504  Rank = 6
+   i --> 5   Special Vector V1 = 0.09541862707913905  Rank = 1      Special Vector2 = 0.09446853600547102  Rank = 1
+   i --> 6   Special Vector V1 = 0.08693743994232092  Rank = 4      Special Vector2 = 0.09149663100799313  Rank = 3
+   i --> 7   Special Vector V1 = 0.023316985403570155  Rank = 18      Special Vector2 = 0.023997623460704463  Rank = 7
+   i --> 8   Special Vector V1 = 0.0790925196158697  Rank = 5      Special Vector2 = 0.08337124462687624  Rank = 4
+   i --> 9   Special Vector V1 = 0.050795746058323085  Rank = 9      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 10   Special Vector V1 = 0.0431163892229248  Rank = 13      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 11   Special Vector V1 = 0.040708936134810594  Rank = 15      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 12   Special Vector V1 = 0.054262930246822404  Rank = 6      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 13   Special Vector V1 = 0.05414046200628634  Rank = 7      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 14   Special Vector V1 = 0.04821540123209265  Rank = 10      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 15   Special Vector V1 = 0.04719327692720793  Rank = 12      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 16   Special Vector V1 = 0.09248079765928849  Rank = 2      Special Vector2 = 0.09297070926242251  Rank = 2
+   i --> 17   Special Vector V1 = 0.04728698100938948  Rank = 11      Special Vector2 = 0.047234268002735516  Rank = 5
+   i --> 18   Special Vector V1 = 0.051640003473449984  Rank = 8      Special Vector2 = 0.047234268002735516  Rank = 5
+
+    Max Normalzied Difference ==> 33.29488657509195
+
+   Average_Ratio1 = 4.878296238830096
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.03863538795219079  Rank = 13      Special Vector2 = 0.03724116733058593  Rank = 4
+   i --> 2   Special Vector V1 = 0.07759497881534795  Rank = 3      Special Vector2 = 0.07448233466117185  Rank = 2
+   i --> 3   Special Vector V1 = 0.07886268634857782  Rank = 2      Special Vector2 = 0.07608888888759086  Rank = 1
+   i --> 4   Special Vector V1 = 0.03910267274371723  Rank = 12      Special Vector2 = 0.03724116733058593  Rank = 4
+   i --> 5   Special Vector V1 = 0.03249831013185666  Rank = 15      Special Vector2 = 0.03440675219358008  Rank = 5
+   i --> 6   Special Vector V1 = 0.045817965967836397  Rank = 11      Special Vector2 = 0.03724116733058593  Rank = 4
+   i --> 7   Special Vector V1 = 0.07489417517228802  Rank = 5      Special Vector2 = 0.07448233466117185  Rank = 2
+   i --> 8   Special Vector V1 = 0.0810541171296806  Rank = 1      Special Vector2 = 0.07608888888759086  Rank = 1
+   i --> 9   Special Vector V1 = 0.03149619418743472  Rank = 16      Special Vector2 = 0.032969150540076535  Rank = 6
+   i --> 10   Special Vector V1 = 0.0192993403707407  Rank = 19      Special Vector2 = 0.01948589952318219  Rank = 8
+   i --> 11   Special Vector V1 = 0.07669835896628674  Rank = 4      Special Vector2 = 0.07448233466117185  Rank = 2
+   i --> 12   Special Vector V1 = 0.019823344036840423  Rank = 17      Special Vector2 = 0.019783183612662868  Rank = 7
+   i --> 13   Special Vector V1 = 0.07437954261223921  Rank = 6      Special Vector2 = 0.07448233466117185  Rank = 2
+   i --> 14   Special Vector V1 = 0.03436792305994676  Rank = 14      Special Vector2 = 0.03724116733058593  Rank = 4
+   i --> 15   Special Vector V1 = 0.061872718841762604  Rank = 10      Special Vector2 = 0.06862501119390563  Rank = 3
+   i --> 16   Special Vector V1 = 0.06228901731184883  Rank = 9      Special Vector2 = 0.06862501119390563  Rank = 3
+   i --> 17   Special Vector V1 = 0.019464032276069822  Rank = 18      Special Vector2 = 0.019783183612662868  Rank = 7
+   i --> 18   Special Vector V1 = 0.06559902160643934  Rank = 8      Special Vector2 = 0.06862501119390563  Rank = 3
+   i --> 19   Special Vector V1 = 0.06625021246889533  Rank = 7      Special Vector2 = 0.06862501119390563  Rank = 3
+
+    Max Normalzied Difference ==> 33.31607466624542
+
+   Average_Ratio1 = 4.734498843179044
+ ***********************************************************************************
+ *******************************************************
+ The best example out of 10000000  is as follows:
+  
+  
+ ________________________________________________ 
+
+ Vector0   Rank R0        Vector1  Rank R1  
+
+   i --> 1   Special Vector V1 = 0.07331361085099185  Rank = 2      Special Vector2 = 0.07056727400065418  Rank = 1
+   i --> 2   Special Vector V1 = 0.0685899703378608  Rank = 7      Special Vector2 = 0.0685661031008734  Rank = 3
+   i --> 3   Special Vector V1 = 0.07017316630796683  Rank = 5      Special Vector2 = 0.069559492412441  Rank = 2
+   i --> 4   Special Vector V1 = 0.034946937445059174  Rank = 14      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 5   Special Vector V1 = 0.057119815522899436  Rank = 9      Special Vector2 = 0.06397443629422907  Rank = 4
+   i --> 6   Special Vector V1 = 0.05687069281550829  Rank = 10      Special Vector2 = 0.06179523213908402  Rank = 5
+   i --> 7   Special Vector V1 = 0.01981524955846142  Rank = 20      Special Vector2 = 0.018419768183627866  Rank = 9
+   i --> 8   Special Vector V1 = 0.06871828607661463  Rank = 6      Special Vector2 = 0.0685661031008734  Rank = 3
+   i --> 9   Special Vector V1 = 0.03181264724169796  Rank = 16      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 10   Special Vector V1 = 0.03218497826254037  Rank = 15      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 11   Special Vector V1 = 0.07048634357901726  Rank = 4      Special Vector2 = 0.069559492412441  Rank = 2
+   i --> 12   Special Vector V1 = 0.0677167812388767  Rank = 8      Special Vector2 = 0.0685661031008734  Rank = 3
+   i --> 13   Special Vector V1 = 0.03803712106493464  Rank = 13      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 14   Special Vector V1 = 0.07148844634434974  Rank = 3      Special Vector2 = 0.069559492412441  Rank = 2
+   i --> 15   Special Vector V1 = 0.031608652808430907  Rank = 17      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 16   Special Vector V1 = 0.07333610203144462  Rank = 1      Special Vector2 = 0.07056727400065418  Rank = 1
+   i --> 17   Special Vector V1 = 0.042139513413601504  Rank = 11      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 18   Special Vector V1 = 0.020528936662532467  Rank = 19      Special Vector2 = 0.019232023044304877  Rank = 8
+   i --> 19   Special Vector V1 = 0.039766018446677584  Rank = 12      Special Vector2 = 0.035283637000327085  Rank = 6
+   i --> 20   Special Vector V1 = 0.03134672999053389  Rank = 18      Special Vector2 = 0.034081746795212794  Rank = 7
+
+    Max Normalzied Difference ==> 33.31638544987822
+
+   Average_Ratio1 = 4.603813061603159
+ ***********************************************************************************
+  
+  
+ *********  The END!  *************************************** 

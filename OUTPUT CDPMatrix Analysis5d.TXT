@@ -1,0 +1,26 @@
+ ******************************************************* 
+ ***  This study explores what happens if we apply a *** 
+ ***  CDP matrix only once (1st iteration)           *** 
+ ***  Number of Iterations = 10000000
+ ******************************************************* 
+  
+  N ---> 2  KCounter1 = 2814737  KCounter2 = 0    Ratio1 = 28.14737  Ratio2 = 0  Aver Ratio1 = 15.069774587686508  Max Normal Diff = 33.33331365608136
+  N ---> 3  KCounter1 = 4609435  KCounter2 = 0    Ratio1 = 46.09435  Ratio2 = 0  Aver Ratio1 = 13.787838742422792  Max Normal Diff = 33.33330747424812
+  N ---> 4  KCounter1 = 5712420  KCounter2 = 0    Ratio1 = 57.1242  Ratio2 = 0  Aver Ratio1 = 12.252349828485047  Max Normal Diff = 33.33332585462297
+  N ---> 5  KCounter1 = 6615750  KCounter2 = 0    Ratio1 = 66.1575  Ratio2 = 0  Aver Ratio1 = 10.710875790871786  Max Normal Diff = 33.33329789346019
+  N ---> 6  KCounter1 = 7343952  KCounter2 = 0    Ratio1 = 73.43952  Ratio2 = 0  Aver Ratio1 = 9.47832688370445  Max Normal Diff = 33.33330306689992
+  N ---> 7  KCounter1 = 7919795  KCounter2 = 0    Ratio1 = 79.19795  Ratio2 = 0  Aver Ratio1 = 8.538611096116997  Max Normal Diff = 33.33332856330033
+  N ---> 8  KCounter1 = 8374526  KCounter2 = 0    Ratio1 = 83.74526  Ratio2 = 0  Aver Ratio1 = 7.8174415190673106  Max Normal Diff = 33.33319463937133
+  N ---> 9  KCounter1 = 8731665  KCounter2 = 0    Ratio1 = 87.31665  Ratio2 = 0  Aver Ratio1 = 7.247195296555247  Max Normal Diff = 33.33329019675052
+  N ---> 10  KCounter1 = 9007176  KCounter2 = 0    Ratio1 = 90.07176  Ratio2 = 0  Aver Ratio1 = 6.789156964369327  Max Normal Diff = 33.33313572825457
+  N ---> 11  KCounter1 = 9225096  KCounter2 = 0    Ratio1 = 92.25096  Ratio2 = 0  Aver Ratio1 = 6.418286242637507  Max Normal Diff = 33.33308909366853
+  N ---> 12  KCounter1 = 9393420  KCounter2 = 0    Ratio1 = 93.9342  Ratio2 = 0  Aver Ratio1 = 6.102515625337256  Max Normal Diff = 33.333229028078044
+  N ---> 13  KCounter1 = 9526250  KCounter2 = 0    Ratio1 = 95.2625  Ratio2 = 0  Aver Ratio1 = 5.829661266717198  Max Normal Diff = 33.33165823674492
+  N ---> 14  KCounter1 = 9628977  KCounter2 = 0    Ratio1 = 96.28977  Ratio2 = 0  Aver Ratio1 = 5.59104822948784  Max Normal Diff = 33.32969306457333
+  N ---> 15  KCounter1 = 9709783  KCounter2 = 0    Ratio1 = 97.09783  Ratio2 = 0  Aver Ratio1 = 5.383531817476928  Max Normal Diff = 33.33300778933152
+  N ---> 16  KCounter1 = 9773274  KCounter2 = 0    Ratio1 = 97.73274  Ratio2 = 0  Aver Ratio1 = 5.195057795823697  Max Normal Diff = 33.32405255877417
+  N ---> 17  KCounter1 = 9822781  KCounter2 = 0    Ratio1 = 98.22781  Ratio2 = 0  Aver Ratio1 = 5.028770745282851  Max Normal Diff = 33.327770415596376
+  N ---> 18  KCounter1 = 9860491  KCounter2 = 0    Ratio1 = 98.60491  Ratio2 = 0  Aver Ratio1 = 4.875196675267423  Max Normal Diff = 33.328737698211704
+  N ---> 19  KCounter1 = 9891848  KCounter2 = 0    Ratio1 = 98.91848  Ratio2 = 0  Aver Ratio1 = 4.734287769989819  Max Normal Diff = 33.323777782111506
+  N ---> 20  KCounter1 = 9914850  KCounter2 = 0    Ratio1 = 99.1485  Ratio2 = 0  Aver Ratio1 = 4.603526270791076  Max Normal Diff = 33.32326398830804
+ ************************************************ 
