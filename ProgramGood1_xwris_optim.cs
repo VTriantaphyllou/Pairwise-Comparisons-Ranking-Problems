@@ -21,7 +21,7 @@ namespace ConsoleAppl_CDP_Analysis_for_RR_problem1
     // *********************************************************************************************************************
     // *** by Vangelis Triantaphyllou, Baton Rouge, LA, October 2024.                                                    ***
     // *** Individual methods work fine, but some segments of this code may have bugs.  Some propriatery parts were      ***
-    // *** removed as not all results have been published or send for publication yet.                                   ***
+    // *** removed as not all results have been published or sent for publication yet.                                   ***
     // *********************************************************************************************************************
 
 
