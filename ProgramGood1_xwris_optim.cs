@@ -8,7 +8,7 @@ namespace ConsoleAppl_CDP_Analysis_for_RR_problem1
 {
     // *********************************************************************************************************************
     // ***
-    // *** This program prepares data that I can use for my analysis of the Rank Reversal (RR) problem withing a single
+    // *** This program prepares data that I can use for my analysis of the Rank Reversal (RR) problem within a single
     // *** Saaty pairwise matrix.   It works as follows:
     // *** First consider N random values such that the Saaty scale of [1/9, 9] can be applied.
     // *** Get the ranking R0.  This is the real ranking that w ewill use to compare other rankings with.
